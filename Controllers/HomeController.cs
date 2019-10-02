@@ -11,17 +11,17 @@ namespace portfolio.Controllers
 {
     public class HomeController : Controller
     {
-        private DBContext context;
+        // private DBContext context;
 
         public IActionResult Index()
         {
             return View();
         }
 
-        [HttpGet("test")]
-        public IActionResult Test()
-        {
-            return View();
-        }
+        // [HttpGet("test")]
+        // public IActionResult Test()
+        // {
+        //     return View();
+        // }
     }
 }
