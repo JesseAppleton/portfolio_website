@@ -42,4 +42,3 @@ C:\Users\Jesseyo\Desktop\Coding_Dojo\portfolio\obj\Debug\netcoreapp3.0\portfolio
 C:\Users\Jesseyo\Desktop\Coding_Dojo\portfolio\obj\Debug\netcoreapp3.0\portfolio.csproj.CopyComplete
 C:\Users\Jesseyo\Desktop\Coding_Dojo\portfolio\obj\Debug\netcoreapp3.0\portfolio.dll
 C:\Users\Jesseyo\Desktop\Coding_Dojo\portfolio\obj\Debug\netcoreapp3.0\portfolio.pdb
-C:\Users\Jesseyo\Desktop\Coding_Dojo\portfolio\obj\Debug\netcoreapp3.0\Razor\Views\Home\Test.cshtml.g.cs
