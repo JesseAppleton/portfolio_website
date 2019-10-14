@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesseyo\\Desktop\\Coding_Dojo\\portfolio\\portfolio.csproj": {}
+    "C:\\Users\\Apple\\Desktop\\CodingDojo\\portfolio_website\\portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesseyo\\Desktop\\Coding_Dojo\\portfolio\\portfolio.csproj": {
+    "C:\\Users\\Apple\\Desktop\\CodingDojo\\portfolio_website\\portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesseyo\\Desktop\\Coding_Dojo\\portfolio\\portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\CodingDojo\\portfolio_website\\portfolio.csproj",
         "projectName": "portfolio",
-        "projectPath": "C:\\Users\\Jesseyo\\Desktop\\Coding_Dojo\\portfolio\\portfolio.csproj",
-        "packagesPath": "C:\\Users\\Jesseyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesseyo\\Desktop\\Coding_Dojo\\portfolio\\obj\\",
+        "projectPath": "C:\\Users\\Apple\\Desktop\\CodingDojo\\portfolio_website\\portfolio.csproj",
+        "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Apple\\Desktop\\CodingDojo\\portfolio_website\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Jesseyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
